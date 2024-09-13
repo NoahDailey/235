@@ -1,1 +1,2 @@
 ErrorDocument 404 /nwd1654/235/error/error.html
+DirectoryIndex noterror.html
